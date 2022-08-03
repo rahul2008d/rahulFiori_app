@@ -1,0 +1,6 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+controllerName="lam.fin.ar.controller.Empty">
+    <Page title="Home Page">
+        <Image width="90%" height="100%" src="https://wallpapers-hub.art/wallpaper-images/240159.jpg"></Image>
+    </Page>
+</mvc:View>
